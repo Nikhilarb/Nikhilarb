@@ -1,10 +1,33 @@
 # Hi, I'm Nikhila 👋
 
 ## About Me
-- 🌱 I'm currently learning Git, GitHub, AWS, and serverless cloud workflows
-- ☁️ I'm interested in cloud computing, data analytics, dashboards, and AI-assisted workflows
-- 📊 I'm building hands-on projects in AWS cloud services, data analytics, business intelligence, and serverless workflows
 
-## Projects
-- [git-learning-log](https://github.com/Nikhilarb/git-learning-log)
-  - My first Git and GitHub project where I practiced repositories, commits, branching, merge conflicts, and version control workflows.
+- Cloud & Data professional transitioning into cloud and data-driven roles
+- Built 30+ AWS, cloud, and Git projects covering networking, databases, analytics, APIs, serverless architectures, and CI/CD workflows
+- Hands-on experience with AWS, SQL, Git, GitHub, QuickSight, Power BI, and cloud analytics solutions
+- Background in VMware, enterprise storage, Linux/Unix administration, and infrastructure operations
+- AWS re/Start Graduate | Google Data Analytics Certificate
+
+## Featured Projects
+
+### Serverless Cloud Resume on AWS
+Serverless portfolio website built using S3, CloudFront, API Gateway, Lambda, DynamoDB, and GitHub Actions.
+
+### Serverless E-Commerce Analytics Dashboard
+Analytics pipeline using Lambda, DynamoDB, S3, Athena, Glue, QuickSight, and SQL.
+
+### AWS Three-Tier Web Application
+Serverless application architecture using CloudFront, API Gateway, Lambda, and DynamoDB.
+
+### APIs with Lambda & API Gateway
+Built REST APIs using AWS Lambda and API Gateway.
+
+### Aurora Web App Integration
+Connected a web application hosted on EC2 to Amazon Aurora MySQL.
+
+### Git & GitHub Workflows
+Practiced branching, rebasing, pull requests, merge conflict resolution, recovery, and debugging.
+
+## Technologies
+
+AWS • SQL • Lambda • DynamoDB • Athena • Glue • QuickSight • CloudFront • API Gateway • Docker • Git • GitHub • Power BI
