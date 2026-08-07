@@ -3,9 +3,13 @@
 ## About Me
 
 • Cloud & Data professional transitioning into cloud and data analytics roles
+
 • Built 30+ AWS, SQL, Python, and Git projects covering analytics, databases, APIs, serverless architectures, and CI/CD
+
 • Hands-on experience with AWS, SQL, Python, Git, GitHub, Amazon Quick, Power BI, and cloud analytics
+
 • Background in VMware, enterprise storage, Linux/Unix administration, and infrastructure operations
+
 • AWS re/Start Graduate | Google Data Analytics Professional Certificate
 
 ## Featured Projects
