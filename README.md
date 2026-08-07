@@ -2,11 +2,11 @@
 
 ## About Me
 
-- Cloud & Data professional transitioning into cloud and data-driven roles
-- Built 30+ AWS, cloud, and Git projects covering networking, databases, analytics, APIs, serverless architectures, and CI/CD workflows
-- Hands-on experience with AWS, SQL, Git, GitHub, QuickSight, Power BI, and cloud analytics solutions
-- Background in VMware, enterprise storage, Linux/Unix administration, and infrastructure operations
-- AWS re/Start Graduate | Google Data Analytics Certificate
+• Cloud & Data professional transitioning into cloud and data analytics roles
+• Built 30+ AWS, SQL, Python, and Git projects covering analytics, databases, APIs, serverless architectures, and CI/CD
+• Hands-on experience with AWS, SQL, Python, Git, GitHub, Amazon Quick, Power BI, and cloud analytics
+• Background in VMware, enterprise storage, Linux/Unix administration, and infrastructure operations
+• AWS re/Start Graduate | Google Data Analytics Professional Certificate
 
 ## Featured Projects
 
@@ -25,9 +25,10 @@ Built REST APIs using AWS Lambda and API Gateway.
 ### Aurora Web App Integration
 Connected a web application hosted on EC2 to Amazon Aurora MySQL.
 
-### Git & GitHub Workflows
-Practiced branching, rebasing, pull requests, merge conflict resolution, recovery, and debugging.
+### E-Commerce Analytics Pipeline
+
+End-to-end analytics pipeline using SQL, pandas, S3, Athena, Glue, Lambda, and Amazon Quick with automated querying and cloud BI dashboards.
 
 ## Technologies
 
-AWS • SQL • Lambda • DynamoDB • Athena • Glue • QuickSight • CloudFront • API Gateway • Docker • Git • GitHub • Power BI
+AWS • Python • SQL • pandas • Athena • Glue • Lambda • Amazon Quick • S3 • API Gateway • DynamoDB • Git • GitHub • Power BI
