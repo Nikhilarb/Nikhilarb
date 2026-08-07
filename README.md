@@ -2,14 +2,10 @@
 
 ## About Me
 
-• Cloud & Data professional transitioning into cloud and data analytics roles
-
-• Built 30+ AWS, SQL, Python, and Git projects covering analytics, databases, APIs, serverless architectures, and CI/CD
-
+• Cloud & Data professional transitioning into Cloud Data Analytics and Cloud Engineering roles.
+• Built 30+ hands-on AWS, SQL, Python, and Git projects covering cloud analytics, databases, APIs, serverless architectures, and CI/CD workflows.
 • Hands-on experience with AWS, SQL, Python, Git, GitHub, Amazon Quick, Power BI, and cloud analytics
-
 • Background in VMware, enterprise storage, Linux/Unix administration, and infrastructure operations
-
 • AWS re/Start Graduate | Google Data Analytics Professional Certificate
 
 ## Featured Projects
@@ -30,9 +26,7 @@ Built REST APIs using AWS Lambda and API Gateway.
 Connected a web application hosted on EC2 to Amazon Aurora MySQL.
 
 ### E-Commerce Analytics Pipeline
-
-End-to-end analytics pipeline using SQL, pandas, S3, Athena, Glue, Lambda, and Amazon Quick with automated querying and cloud BI dashboards.
+End-to-end cloud analytics pipeline using SQL, pandas, S3, Athena, Glue, Lambda, and Amazon Quick, featuring automated querying, serverless execution, and interactive BI dashboards.
 
 ## Technologies
-
-AWS • Python • SQL • pandas • Athena • Glue • Lambda • Amazon Quick • S3 • API Gateway • DynamoDB • Git • GitHub • Power BI
+AWS • Python • SQL • Pandas • Athena • Glue • Lambda • Amazon Quick • S3 • API Gateway • DynamoDB • Git • GitHub • Power BI
